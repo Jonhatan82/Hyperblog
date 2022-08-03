@@ -2,7 +2,9 @@ realizando prueba de vsc y de git
 
 volviendo a guardar
 
-Tengo 39 años 
+Tengo 39 años
+
+Torres2308 es una persona que contribuye en este proyecto open source 
 
 en camara parec alto, pero en realida no estan alto.
 
